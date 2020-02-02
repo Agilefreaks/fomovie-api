@@ -1,0 +1,1 @@
+[{"severity":"warning","location":{"begin_pos":85,"end_pos":101},"message":"Lint/SuppressedException: Do not suppress exceptions.","cop_name":"Lint/SuppressedException","status":"uncorrected"}]

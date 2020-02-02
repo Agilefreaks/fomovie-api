@@ -1,0 +1,16 @@
+AllCops:
+  CacheRootDirectory: .
+  TargetRubyVersion: 2.7.0
+  Exclude:
+    - db/fixtures/**/*
+    - bin/*
+    - vendor/**/*
+    - docs/lib/*
+    - docs/*
+    - shared/*
+
+Style/Documentation:
+  Enabled: false
+
+Layout/LineLength:
+  Max: 120
