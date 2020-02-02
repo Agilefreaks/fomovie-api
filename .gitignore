@@ -12,7 +12,7 @@ tmp
 .idea
 /.env*
 log
-
+rubocop_cache
 
 # Used by dotenv library to load environment variables.
 # .env
